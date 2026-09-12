@@ -73,7 +73,7 @@ The affected transactions were retained rather than deleted simply to remove the
 
 ## Dashboard
 
-!https://github.com/ritaonuoha-portfolio/novamart-sales-performance-analysis/commit/acef80b9fb4aa9e485d43fbf3cac155bd674ef64
+https://github.com/ritaonuoha-portfolio/novamart-sales-performance-analysis/blob/main/normart%20dashboard.jpeg
 
 ---
 
